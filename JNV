@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>
+		Navodaya Samiti
+	</title>
+</head>
+<body background="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.videvo.net%2Ffree-motion-graphics%2F&psig=AOvVaw2ah2A0LRsB4qNIkmKjBz2T&ust=1612377643291000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDMk_3sy-4CFQAAAAAdAAAAABAW">
+	<br />
+	<h3 align="center">
+		<img src="JNV_select_list.jpg" alt="our logo">
+		<font face="cinzel" size="4">
+			<a href="https://navodaya.gov.in/nvs/en/Home1">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="https://navodaya.gov.in/nvs/en/Academic/Activities/">Academic activities</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="https://navodaya.gov.in/nvs/en/Academic/school-administration/facilities-in-jnvs/students/">FACILITIES</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="https://navodaya.gov.in/nvs/en/Admission-JNVST/Enrolment-Policy/">ADMISSIONS</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="#">CONTACT US</a>
+		</font>
+	</h3>
+	<h1 align="center">
+		<font face="Lato" color="#017bf5" size="7">
+			JAWAHAR NAVODAYA VIDYALAYA
+		</font>
+	</h1>
+	<h3 align="center">
+		<font face="Lato" color="#000" size="5">
+			An Autonomous Body Under MHRD(Government of India)
+		</font>
+	</h3>
+	<br />
+	<h3 align="center">
+	<a href ="https://navodaya.gov.in/">know more about us</a>
+	</a>
+	<a href="#">
+		<font face="Lato" color="#fff">SUBSCRIBE US</font>
+	</a>
+	</h3>
+</body>
+</html>
